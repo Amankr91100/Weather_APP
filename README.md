@@ -29,7 +29,7 @@ this app keeps you informed with accurate, up-to-date weather data 🌦️.
 
  🖼️ Screenshots
  
-<img width="759" height="818" alt="Screenshot 2025-07-31 175900" src="https://github.com/user-attachments/assets/21ed3f8e-2535-42b1-9bf0-60ed27995f92" />
+<img width="459" height="518" alt="Screenshot 2025-07-31 175900" src="https://github.com/user-attachments/assets/21ed3f8e-2535-42b1-9bf0-60ed27995f92" />
 
 
 ## 📁 Folder Structure
